@@ -1,0 +1,14 @@
+/*About-Pge*/
+.about-info{
+  height:350px;
+}
+
+#img-content img{
+  width: 60%;
+  padding-top: 15px;
+  padding-right: 15px;
+}
+
+.testimonial{
+  height:550px;
+}

@@ -1,0 +1,78 @@
+.nav-bar h1,
+.nav-bar ul,
+.nav-bar li{
+  float:none;
+}
+
+.nav-bar{
+  text-align: center;
+}
+
+.nav-bar h1{
+  padding-right: 22px;
+}
+
+.nav-bar li a{
+  padding:5px;
+  border:#444 dotted 1px;
+}
+
+/*Show-Case*/
+.showcase p{
+  padding: 0px 20px;
+}
+
+.showcase button{
+  margin-top: 15px;
+}
+
+
+/*Hotel-Info*/
+
+.hotel-info{
+  height:350px;
+}
+
+#hotel-outlook{
+  float: none;
+  display: none;
+}
+
+#history{
+  float:none;
+  width: 100%;
+}
+
+/*Box*/
+
+.box{
+  float: none;
+  width: 100%;
+}
+
+
+/*About-Page*/
+
+.about-info #about-content,
+.about-info #img-content{
+  float:none;
+  width:100%;
+}
+
+.about-info{
+  margin:auto;
+}
+
+#about-content h1{
+  text-align: center;
+}
+
+#img-content img{
+  margin-right: 50px;
+}
+
+/*Contact-Page*/
+
+.contact .box{
+  border-bottom: #444 1px dashed;
+}
